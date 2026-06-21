@@ -1,13 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gMgSDeGo)
-
 # **Games and Artificial Intelligence Techniques<br />COSC2527 / COSC3144<br />Semester 1 2025<br />Assignment 2**
 
 This is the README file for Assignment 2 in Games and Artificial Intelligence Techniques.
-
-Note:
-
-- The starter project was created in Unity 6000.0.37f1. Please use the same Unity version for your submission.
-- Please do not edit the contents of the .gitignore file.
 
 ## **Project Contributors:**
 
@@ -19,14 +12,7 @@ Note:
 
 ## **Overview:**
 
-**GitHub Repository:**
-https://github.com/rmit-computing-technologies/cosc2527-cosc3144-assignment-2-as-dt-mcts-a2_s4031723_s4120654_s4100892.
-
 **Game Genre:** 2D Strategy.
-
-**Contribution Form:** [Group 3 Contribution Form (PDF)](Group%203%20Contribution%20Form.pdf).
-
-**Demo Video:** (submitted via canvas).
 
 **AI Features:**
 
