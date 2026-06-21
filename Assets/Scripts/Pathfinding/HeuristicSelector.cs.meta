@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee2fd12506f90ce448c540186b4a8daa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dropdown: {fileID: 4110320267973895309, guid: e3e51215684786e478853d13ef8fcb30, type: 3}
+  - pathfindingScript: {fileID: 8880823723531470148, guid: b34f34fe5c2edad49a0206ed73d3034f, type: 3}
+  - frogScript: {fileID: 6897598461094335584, guid: 94e05544494a2fb4f8580bc33d45eba3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

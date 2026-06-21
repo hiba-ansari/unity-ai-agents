@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be5fdcec6c727c94cb03acde772511d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yellowAgent: {fileID: 6514308275300585914, guid: 60c402b0ac71e804dac5543313aa3e2a, type: 3}
+  - redAgent: {fileID: 5588636121101520801, guid: 28baca2aa3e879b4c8fb98c920713fb9, type: 3}
+  - pieceRed: {fileID: 100000, guid: 7faddc12bb4db9c469c873982168faa2, type: 3}
+  - pieceYellow: {fileID: 100000, guid: f1274e8c2df69e74eadfe7559af71d3f, type: 3}
+  - pieceField: {fileID: 100000, guid: 9ec510e0b04c22842b98158e86b57333, type: 3}
+  - gameOverText: {instanceID: 0}
+  - btnPlayAgain: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
