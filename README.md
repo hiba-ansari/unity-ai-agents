@@ -4,11 +4,11 @@ This is the README file for Assignment 2 in Games and Artificial Intelligence Te
 
 ## **Project Contributors:**
 
-| Name                | Student ID | Main Contribution                                                                   |
-| ------------------- | ---------- | ----------------------------------------------------------------------------------- |
-| Ngoc Bao Tran Luong | s4031723   | Implemented Basic A\*, Decision Tree, and Monte Carlo Tree Search agent (MCTSAgent) |
-| Hiba Ansari         | s4100892   | Developed Path Smoothing, Varying Terrain, and Monte Carlo agent (MCAgent)          |
-| Aindrila Das Prapti | s4120654   | Added Varying Heuristics, Dynamic Obstacles, and Rule-Based agent (RuleBasedAgent)  |
+| Name                 | Main Contribution                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------- |
+| Team-member 1| Implemented Basic A\*, Decision Tree, and Monte Carlo Tree Search agent (MCTSAgent) |
+| Hiba Ansari   | Developed Path Smoothing, Varying Terrain, and Monte Carlo agent (MCAgent)          |
+| Team-member 2  | Added Varying Heuristics, Dynamic Obstacles, and Rule-Based agent (RuleBasedAgent)  |
 
 ## **Overview:**
 
